@@ -23,7 +23,7 @@ repository               : "pchencecilia/chenpeng.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Chen Peng.JPG"
+  avatar           : "/images/chenpeng.JPG"
   name             : "Dr Chen Peng (彭琛)"
   # pronouns         : # example: "she/her"  
   # bio              : "Short biography for the left-hand sidebar"
