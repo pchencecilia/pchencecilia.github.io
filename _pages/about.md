@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi there"
+# title: ""
 layout: single
 author_profile: true
 redirect_from: 
