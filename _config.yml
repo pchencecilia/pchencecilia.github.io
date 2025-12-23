@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # the available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Chen's Homepage"
+title                    : "Chen Peng"
 title_separator          : "-"
 name                     : &name "Chen Peng"
 description              : &description "Chen's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -23,12 +23,12 @@ repository               : "pchencecilia/pchencecilia.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/chenpengnew.jpeg"
+  avatar           : "images/chenpengnew.jpeg"
   name             : "Dr Chen Peng (彭琛)"
   # pronouns         : # example: "she/her"  
   # bio              : "Short biography for the left-hand sidebar"
-  location         : "Loughborough, UK"
-  employer         : "Loughborough University"
+  # location         : "Loughborough, UK"
+  employer         : "Loughborough University, UK"
   uri              : # URL
   email            : "c.peng@lboro.ac.uk" 
 

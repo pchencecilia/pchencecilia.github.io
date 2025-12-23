@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-## About Me
 I am a *Lecturer (Assistant Professor) in Human Factors and Ergonomics* at the School of Design and Creative Arts, Loughborough University, UK. 
 <br><br>
 My research focuses on <span style="color: #9d4edd"> human factors in future mobility </span>, including passenger comfort in highly automated driving, human-automated vehicle interaction, inclusive design for diverse users, and active travel. Broadly speaking, I am interested in understanding human behaviour and designing better systems for their <span style="color: #9d4edd">interaction with technology</span> 🚘 🤖 🚲.
