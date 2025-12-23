@@ -52,8 +52,8 @@ I am passionate about including more marginalised groups, such as older adults, 
 
 #### **Related projects:**
 
-* <span style="background-color: #e7f3fe; padding: 2px 8px; border-radius: 10px;">**SHAPE-IT**</span> Supporting the Interaction of Humans and Automated Vehicles: Preparing for the Environment of Tomorrow.| **Role:** ESR | Horizon Europe Marie Curie ITN. [Link](https://shape-it.eu/)
-* <span style="background-color: #e7f3fe; padding: 2px 8px; border-radius: 10px;">**Hi-Drive**</span> | **Role:** Researcher/Co-I | European Commission/FP7.[Link 1](https://www.hi-drive.eu/) [Link 2](https://environment.leeds.ac.uk/dir-record/research-projects/2108/hi-drive)
+  <span style="background-color: #e7f3fe; padding: 2px 8px; border-radius: 10px;">**SHAPE-IT**</span> Supporting the Interaction of Humans and Automated Vehicles: Preparing for the Environment of Tomorrow.| **Role:** ESR | Horizon Europe Marie Curie ITN. | [Link](https://shape-it.eu/)
+  <span style="background-color: #e7f3fe; padding: 2px 8px; border-radius: 10px;">**Hi-Drive**</span> | **Role:** Researcher/Co-I | European Commission/FP7. | [Link 1](https://www.hi-drive.eu/) [Link 2](https://environment.leeds.ac.uk/dir-record/research-projects/2108/hi-drive)
   
 ---
 
@@ -69,7 +69,7 @@ I am passionate about including more marginalised groups, such as older adults, 
 
 #### **Related projects:**
 
-* <span style="background-color: #e7f3fe; padding: 2px 8px; border-radius: 10px;">**Humans meet technology behind the wheel: Understanding drivers’ feelings and behaviours around advanced driver assistance systems**</span> | **Role:** Co-I | British Academy.[Link](https://environment.leeds.ac.uk/research-project/1/faculty-of-environment/2192/humans-meet-technology-behind-the-wheel-understanding-drivers-feelings-and-behaviours-around-advanced-driver-assistance-systems)
+<span style="background-color: #e7f3fe; padding: 2px 8px; border-radius: 10px;">**Humans meet technology behind the wheel: Understanding drivers’ feelings and behaviours around advanced driver assistance systems**</span> | **Role:** Co-I | British Academy. | [Link](https://environment.leeds.ac.uk/research-project/1/faculty-of-environment/2192/humans-meet-technology-behind-the-wheel-understanding-drivers-feelings-and-behaviours-around-advanced-driver-assistance-systems)
 
 ---
 
@@ -79,7 +79,7 @@ I am passionate about including more marginalised groups, such as older adults, 
 
 #### **Related projects:**
 
-* <span style="background-color: #e7f3fe; padding: 2px 8px; border-radius: 10px;">**e-SAFE: Equity, Social Determinants, Anti-social Behaviour and Future E-Mobility**</span> | **Role:** Researcher | Road Safety Trust. [Link](https://environment.leeds.ac.uk/dir-record/research-projects/2151/e-safe-equity-social-determinants-anti-social-behaviour-and-future-e-mobility)
+  <span style="background-color: #e7f3fe; padding: 2px 8px; border-radius: 10px;">**e-SAFE: Equity, Social Determinants, Anti-social Behaviour and Future E-Mobility**</span> | **Role:** Researcher | Road Safety Trust | [Link](https://environment.leeds.ac.uk/dir-record/research-projects/2151/e-safe-equity-social-determinants-anti-social-behaviour-and-future-e-mobility)
 
 ---
 
