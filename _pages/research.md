@@ -10,7 +10,7 @@ I am passionate about including more marginalised groups, such as older adults, 
 
 
 <div style="text-align: center; margin: 20px 0;">
-  <img src="{{ '/images/ResearchPyramid.png' | relative_url }}" alt="Research theme" width="300px">
+  <img src="{{ '/images/ResearchPyramid.png' | relative_url }}" alt="Research theme" width="450px">
   <p style="font-style: italic; color: #666;">Overview of my research themes</p>
 </div>
 
