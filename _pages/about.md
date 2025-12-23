@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-** About Me ** 
+## Hi there 👋,
 
 I am a *Lecturer (Assistant Professor) in Human Factors and Ergonomics* at the School of Design and Creative Arts, Loughborough University, UK. 
 <br><br>
