@@ -8,10 +8,11 @@ author_profile: true
 My research interests primarily lie in the domain of **human-technology interaction**, paricularly within the context of **future mobility**.
 I am passionate about including more marginalised groups, such as older adults, in research, to provide more **inclusive** solutions. I am proficient in both qualitative and quantitative, analytical approaches.
 
+
 <div style="text-align: center; margin: 20px 0;">
-  <img src="{{ '/images/images/ResearchPyramid.png' | relative_url }}" alt="Project Name" width="400px">
+  <img src="{{ '/images/ResearchPyramid.png' | relative_url }}" alt="Research theme" width="300px">
   <p style="font-style: italic; color: #666;">Overview of my research themes</p>
-</div> 
+</div>
 
 ## Previous Research 
 
