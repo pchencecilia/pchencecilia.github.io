@@ -24,7 +24,7 @@ If you would like to discuss a project or research proposal, please reach out vi
 If you are interested in joining the **School of Design and Creative Arts**. Below are the primary routes:
 
 * <span style="background-color: #F4EEF7; color: #4A1863; padding: 3px 10px; border-radius: 8px; border: 1px solid #D0BCDA;">**General Admissions**</span>  
-Explore current vacancies and application procedures on the [Loughborough University PhD Opportunities](https://www.lboro.ac.uk/study/phd/research-degrees/) page.
+Explore current vacancies and application procedures on the [Loughborough School of Design and Creative Arts PhD Opportunities](https://www.lboro.ac.uk/schools/design-creative-arts/study/research-degrees/phd-opportunities/) page.
 
 * <span style="background-color: #F4EEF7; color: #4A1863; padding: 3px 10px; border-radius: 8px; border: 1px solid #D0BCDA;">**CSC Scholarships**</span>  
 Full scholarships are available for eligible Chinese students through the **China Scholarship Council (CSC)**. Detailed eligibility and deadlines can be found on the [Loughborough CSC Funding Page](https://www.lboro.ac.uk/study/postgraduate/fees-funding/research-degree-funding/china-scholarship-council/).
