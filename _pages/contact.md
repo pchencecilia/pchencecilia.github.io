@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-I am open to academic research collaboration and welcome contact from potential Ph.D. students interested in inclusive mobility and human-technology interaction. 
+I am open to academic research collaboration and welcome contact from potential Ph.D. students interested in future mobility and human-technology interaction. 
 
 I am part of the **Transport Safety Research Centre (TSRC)**. To explore our broader research landscape, please visit the [TSRC Website](https://www.lboro.ac.uk/schools/design-creative-arts/research-innovation/our-research/transport-safety/).
 
