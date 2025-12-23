@@ -11,13 +11,13 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
 
   # - title: "Talks"
   #   url: /talks/    
 
-  - title: "Teaching"
+  - title: "Education"
     url: /teaching/    
     
   # - title: "Portfolio"
@@ -32,5 +32,5 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Contact"
+  - title: "Work with Me"
     url: /contact/
