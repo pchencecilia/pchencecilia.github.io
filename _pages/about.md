@@ -1,13 +1,12 @@
 ---
 permalink: /
-# title: ""
+title: "Hi there 👋"
 layout: single
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-## Hi there 👋,
 
 I am a *Lecturer (Assistant Professor) in Human Factors and Ergonomics* at the School of Design and Creative Arts, Loughborough University, UK. 
 <br><br>

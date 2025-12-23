@@ -45,12 +45,12 @@ I am passionate about including more marginalised groups, such as older adults, 
 **Related project:**
 
 * SHAPE-IT: Supporting the Interaction of Humans and Automated Vehicles: Preparing for the Environment of Tomorrow. Horizon Europe Marie Curie ITN. Role: ESR. [Link](https://shape-it.eu/)
-* Hi-Drive. European Commission/FP7. Role: Researcher/Co-I. [Link](https://www.hi-drive.eu/) [Link](https://environment.leeds.ac.uk/dir-record/research-projects/2108/hi-drive)
-
-<div style="text-align: center; margin: 20px 0;">
+* Hi-Drive. European Commission/FP7. Role: Researcher/Co-I. [Link 1](https://www.hi-drive.eu/) [Link 2](https://environment.leeds.ac.uk/dir-record/research-projects/2108/hi-drive)
+  
+<!-- <div style="text-align: center; margin: 20px 0;">
   <img src="{{ '/images/your-project-image.jpeg' | relative_url }}" alt="Project Name" width="400px">
   <p style="font-style: italic; color: #666;">Caption for your research image</p>
-</div>
+</div> -->
 
 ### 🦾 Human-Automation Interaction
 * Near-distance communication between users and autonomous personal mobility vehicle
