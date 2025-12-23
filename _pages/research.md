@@ -51,10 +51,10 @@ I am passionate about including more marginalised groups, such as older adults, 
 * 👩‍🏫 Peng, C., Hajiseyedjavadi, F., & Merat, N. (2022). A comparison of two methodologies for subjective evaluation of comfort in automated vehicles. The 12th International Conference on Methods and Techniques in Behavioural Research and 6th Seminar on Behavioural Methods, May, 192–199. [Link](https://doi.org/10.6084/m9.figshare.20066849.v1)
 
 #### **Related projects:**
-
+<div style="margin-left: 25px; margin-bottom: 10px;">
   <span style="background-color: #e7f3fe; padding: 2px 8px; border-radius: 10px;">**SHAPE-IT**</span> Supporting the Interaction of Humans and Automated Vehicles: Preparing for the Environment of Tomorrow.| **Role:** ESR | Horizon Europe Marie Curie ITN. | [Link](https://shape-it.eu/)
   <span style="background-color: #e7f3fe; padding: 2px 8px; border-radius: 10px;">**Hi-Drive**</span> | **Role:** Researcher/Co-I | European Commission/FP7. | [Link 1](https://www.hi-drive.eu/) [Link 2](https://environment.leeds.ac.uk/dir-record/research-projects/2108/hi-drive)
-  
+  </div>
 ---
 
 ### 🦾 Human-Automation Interaction
@@ -65,11 +65,12 @@ I am passionate about including more marginalised groups, such as older adults, 
 
 * 📘 Liu, H., Li, Y., Zeng, Z., Cheng, H., Peng, C., & Wada, T. (2024). Is Silent eHMI Enough? A Passenger-Centric Study on Effective eHMI for Autonomous Personal Mobility Vehicles in the Field. International Journal of Human–Computer Interaction.[Link](https://doi.org/10.1080/10447318.2024.2306426)
   
-* 👩‍🏫 Liu, H., Li, Y., Zeng, Z., Cheng, H., Peng, C., & Wada, T. (2025). Inspiring External Human-Machine Interface Designs for Autonomous Personal Mobility Vehicle: Causal Discovering the Influence of Passengers' Personality Traits on User Experience. 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025), Hangzhou, China.[Linke](https://doi.org/10.1109/IROS60139.2025.11246801) 
+* 👩‍🏫 Liu, H., Li, Y., Zeng, Z., Cheng, H., Peng, C., & Wada, T. (2025). Inspiring External Human-Machine Interface Designs for Autonomous Personal Mobility Vehicle: Causal Discovering the Influence of Passengers' Personality Traits on User Experience. 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025), Hangzhou, China.[Link](https://doi.org/10.1109/IROS60139.2025.11246801) 
 
 #### **Related projects:**
-
+<div style="margin-left: 25px; margin-bottom: 10px;">
 <span style="background-color: #e7f3fe; padding: 2px 8px; border-radius: 10px;">**Humans meet technology behind the wheel: Understanding drivers’ feelings and behaviours around advanced driver assistance systems**</span> | **Role:** Co-I | British Academy. | [Link](https://environment.leeds.ac.uk/research-project/1/faculty-of-environment/2192/humans-meet-technology-behind-the-wheel-understanding-drivers-feelings-and-behaviours-around-advanced-driver-assistance-systems)
+</div>
 
 ---
 
@@ -78,9 +79,9 @@ I am passionate about including more marginalised groups, such as older adults, 
 * Inequalities and marginalised groups
 
 #### **Related projects:**
-
+<div style="margin-left: 25px; margin-bottom: 10px;">
   <span style="background-color: #e7f3fe; padding: 2px 8px; border-radius: 10px;">**e-SAFE: Equity, Social Determinants, Anti-social Behaviour and Future E-Mobility**</span> | **Role:** Researcher | Road Safety Trust | [Link](https://environment.leeds.ac.uk/dir-record/research-projects/2151/e-safe-equity-social-determinants-anti-social-behaviour-and-future-e-mobility)
-
+</div>
 ---
 
 ### 🤖 Human-Technology Interaction
