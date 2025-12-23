@@ -50,10 +50,9 @@ I am passionate about including more marginalised groups, such as older adults, 
 
 #### **Related Projects**
 
-  <span style="background-color: #F4EEF7; color: #4A1863; padding: 3px 10px; border-radius: 8px; border: 1px solid #D0BCDA;">**SHAPE-IT: Supporting the Interaction of Humans and Automated Vehicles**</span> | **Role:** ESR | Horizon Europe Marie Curie ITN | [Link](https://shape-it.eu/)
+* <span style="background-color: #F4EEF7; color: #4A1863; padding: 3px 10px; border-radius: 8px; border: 1px solid #D0BCDA;">**SHAPE-IT: Supporting the Interaction of Humans and Automated Vehicles**</span>, **Role:** ESR, Horizon Europe Marie Curie ITN, [Link](https://shape-it.eu/)
 
-  <span style="background-color: #F4EEF7; color: #4A1863; padding: 3px 10px; border-radius: 8px; border: 1px solid #D0BCDA;">
-  **Hi-Drive**</span> | **Role:** Researcher, Co-I | European Commission/FP7 | [Link 1](https://www.hi-drive.eu/) & [Link 2](https://environment.leeds.ac.uk/dir-record/research-projects/2108/hi-drive)
+* <span style="background-color: #F4EEF7; color: #4A1863; padding: 3px 10px; border-radius: 8px; border: 1px solid #D0BCDA;">**Hi-Drive**</span>,  **Role:** Researcher,  European Commission/FP7, [Link 1](https://www.hi-drive.eu/) & [Link 2](https://environment.leeds.ac.uk/dir-record/research-projects/2108/hi-drive)
 
 ---
 
@@ -69,7 +68,7 @@ I am passionate about including more marginalised groups, such as older adults, 
 
 #### **Related projects:**
 
-  <span style="background-color: #F4EEF7; color: #4A1863; padding: 3px 10px; border-radius: 8px; border: 1px solid #D0BCDA;">**Humans meet technology behind the wheel: Understanding drivers’ feelings and behaviours around ADAS**</span> | **Role:** Co-I | British Academy | [Link](https://environment.leeds.ac.uk/research-project/1/faculty-of-environment/2192/humans-meet-technology-behind-the-wheel-understanding-drivers-feelings-and-behaviours-around-advanced-driver-assistance-systems)
+* <span style="background-color: #F4EEF7; color: #4A1863; padding: 3px 10px; border-radius: 8px; border: 1px solid #D0BCDA;">**Humans meet technology behind the wheel: Understanding drivers’ feelings and behaviours around ADAS**</span>, **Role:** Co-I,  British Academy, [Link](https://environment.leeds.ac.uk/research-project/1/faculty-of-environment/2192/humans-meet-technology-behind-the-wheel-understanding-drivers-feelings-and-behaviours-around-advanced-driver-assistance-systems)
 
 ---
 
@@ -79,7 +78,7 @@ I am passionate about including more marginalised groups, such as older adults, 
 
 #### **Related projects:**
 
-  <span style="background-color: #F4EEF7; color: #4A1863; padding: 3px 10px; border-radius: 8px; border: 1px solid #D0BCDA;">**e-SAFE: Equity, Social Determinants, Anti-social Behaviour and Future E-Mobility**</span> | **Role:** Researcher | Road Safety Trust | [Link](https://environment.leeds.ac.uk/dir-record/research-projects/2151/e-safe-equity-social-determinants-anti-social-behaviour-and-future-e-mobility)
+* <span style="background-color: #F4EEF7; color: #4A1863; padding: 3px 10px; border-radius: 8px; border: 1px solid #D0BCDA;">**e-SAFE: Equity, Social Determinants, Anti-social Behaviour and Future E-Mobility**</span>, **Role:** Researcher, Road Safety Trust, [Link](https://environment.leeds.ac.uk/dir-record/research-projects/2151/e-safe-equity-social-determinants-anti-social-behaviour-and-future-e-mobility)
 
 ---
 
